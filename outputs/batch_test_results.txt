@@ -1,0 +1,3 @@
+(260, 'SUCCESS', 661.09)
+(270, 'SUCCESS', 420.55)
+(280, 'FAILED', None)
